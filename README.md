@@ -1,7 +1,6 @@
 <h2 align="center">Flask Template</h2>
 
 ## Installation and running tests
----
 This is a flask-template with extentions of **Flask-Restful** and **JWT**.
 Make sure you are using python3.6 or higher.
 
@@ -14,7 +13,6 @@ This template includes following coding supports.
 * coding style pre-commit hook
 
 ### Installation
----
 
 Initialize your environment using virtualenv.
 ```
@@ -29,7 +27,6 @@ $ pre-commit install
 ```
 
 ### Running tests
----
 
 The simplest way to run tests:
 
