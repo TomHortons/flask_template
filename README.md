@@ -1,7 +1,5 @@
 <h2 align="center">Flask Template</h2>
 
----
-
 ## Installation and running tests
 ---
 This is a flask-template with extentions of **Flask-Restful** and **JWT**.
