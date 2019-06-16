@@ -20,8 +20,8 @@ This template includes following coding supports.
 
 Initialize your environment using virtualenv.
 ```
-$ virtualenv --python python3 .env
-$ source .env/bin/activate
+$ virtualenv --python python3 .venv
+$ source .venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
